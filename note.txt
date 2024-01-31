@@ -1,0 +1,9 @@
+Golang fundamental sejarah
+--------------------------
+
+-> Di develope pada september tahun 2007 oleh enginer google, dan pada November 2009 itu baru di buka sebagai open source
+-> Fokus di simplicity, high performance, readibility
+-> Compiled programming language, aplikasi yang dibangun dengan bahasa go, akan menjadi compiled machine code binaris/ executeability file, jadi tidak dibutuhkan lagi runtime seperti java, python, dan lain-lain
+-> statically typed, jadi variable diberikan type datanya saat compiled time, berbeda dengan dynamically type, tipe data bisa diberikan saat runtime(java script, PHP)
+-> Memiliki fitur memori safety & garbage collection, jadi memudahkan developer untuk tidak lagi direpotkan dengan memory management seperti bahasa C yang secara manual harus mengalokasikan memori (malloc) dan dealokasi (dealloc)
+-> Go OOP
