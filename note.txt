@@ -7,3 +7,6 @@ Golang fundamental sejarah
 -> statically typed, jadi variable diberikan type datanya saat compiled time, berbeda dengan dynamically type, tipe data bisa diberikan saat runtime(java script, PHP)
 -> Memiliki fitur memori safety & garbage collection, jadi memudahkan developer untuk tidak lagi direpotkan dengan memory management seperti bahasa C yang secara manual harus mengalokasikan memori (malloc) dan dealokasi (dealloc)
 -> Go OOP
+kjhsdkjfhskjdhfskdhfdshfksdjhfskjdhfskjdhfskdjhf
+asgdkasdakjshdkashdkashdkasdasdasdasdasdasdasdasd
+ashdakjshdkahsdasda
